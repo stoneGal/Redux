@@ -1,0 +1,17 @@
+*{
+  background-color: #8b5757;
+  color: white;
+}
+
+#faceholder {
+  text-align: center;
+  margin-top: 90px;
+}
+
+.buttons {
+  display: block;
+  margin: 10px auto;
+}
+button{
+  cursor: pointer;
+}
